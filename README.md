@@ -1,5 +1,6 @@
 <p>
-  Create to shake me up :metal:
+  Create to shake me up,
+  Create for shaking somebody up.
 </p>
 
 <a href="https://github.com/5h4k3m3">
